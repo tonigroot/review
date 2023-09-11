@@ -65,7 +65,7 @@ body{
 .avt {
     --s: 280px;
     --b: 0px;
-    --c: #00eeff;
+    --c: #d900ff;
     --f: 1;
 
     width: var(--s);
